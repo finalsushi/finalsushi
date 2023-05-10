@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am Final! a person that lives in this planet earth!
-### briefly, I am a sopho at UNSW
-### Doing finearts 
+### briefly, I am an honours student at UNSW
+### Doing finearts
+### interested in tech etc too
 
-- 🏫 My high school ambition was to become a programmer, but all that fades away bocs i was not accepted for CS major. my other alternative in order to keep my time on track is to join Media & Communication (which I realised that I enjoy it so much!)
-- 🔭 I’m currently working on my own portfolio website for my photography business
-- 🌱 I’m currently learning everything about life
-- 💬 Ask me about Photography! (Im not so good tho so we can share!)
-- 📫 How to reach me: twitter www.twitter.com/finalsushi
+- 🏫 My high school ambition was to become a programmer, but all that fades away bocs i was not accepted for CS major.
+- 📫 reach me at chris@chrismulia.com
 That is all about me!
