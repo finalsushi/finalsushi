@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Final! a person that lives in this planet earth!
 ### briefly, I am an honours student at UNSW
 ### Doing finearts
 ### interested in tech etc too
