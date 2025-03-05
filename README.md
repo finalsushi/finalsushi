@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **howtoace/howtoace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### briefly, I am an honours student at UNSW
-### Doing finearts
-### interested in tech etc too
+### briefly, I currently an AV Tech at UNSW
+### mainly audio, vision, lighting, maintenance and a bit of networking IT etc
+### interested in AI/ cybersec
 
-- 🏫 My high school ambition was to become a programmer, but all that fades away bocs i was not accepted for CS major.
+- 🏫 My childhood ambition was to become a programmer, but was not accepted for CS major.
 - 📫 reach me at chris@chrismulia.com
-That is all about me!
